@@ -1,0 +1,9 @@
+D:\VMcommunicate\CODE\rust\b01_guessing_game\target\debug\deps\libgetrandom-f73589f97f1a9474.rmeta: C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\lib.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\error.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\util.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\error_impls.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\windows.rs
+
+D:\VMcommunicate\CODE\rust\b01_guessing_game\target\debug\deps\getrandom-f73589f97f1a9474.d: C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\lib.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\error.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\util.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\error_impls.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\windows.rs
+
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\lib.rs:
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\error.rs:
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\util.rs:
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\error_impls.rs:
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\getrandom-0.2.8\src\windows.rs:
