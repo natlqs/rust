@@ -1,0 +1,1 @@
+D:\VMcommunicate\CODE\rust\c07_restaurant\target\debug\libc07_restaurant.rlib: D:\VMcommunicate\CODE\rust\c07_restaurant\src\front_of_house\hosting.rs D:\VMcommunicate\CODE\rust\c07_restaurant\src\front_of_house.rs D:\VMcommunicate\CODE\rust\c07_restaurant\src\lib.rs
