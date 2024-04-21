@@ -1,0 +1,10 @@
+D:\VMcommunicate\CODE\rust\b01_guessing_game\target\debug\deps\librand_core-0fa0dbaf26f7addc.rmeta: C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\lib.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\block.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\error.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\impls.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\le.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\os.rs
+
+D:\VMcommunicate\CODE\rust\b01_guessing_game\target\debug\deps\rand_core-0fa0dbaf26f7addc.d: C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\lib.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\block.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\error.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\impls.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\le.rs C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\os.rs
+
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\lib.rs:
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\block.rs:
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\error.rs:
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\impls.rs:
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\le.rs:
+C:\Users\natlq\.cargo\registry\src\mirrors.sjtug.sjtu.edu.cn-7a04d2510079875b\rand_core-0.6.4\src\os.rs:
